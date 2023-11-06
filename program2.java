@@ -23,3 +23,12 @@ public class program2
 		 
 	}
 }
+
+/*
+O/P --->
+Enter 3 numbers:-
+1
+2
+3
+Addition is:-6
+*/

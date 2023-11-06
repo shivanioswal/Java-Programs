@@ -17,5 +17,7 @@ public class program1
 		p.add(1,2,3);
 	}
 }
+/*
 O/P --> Addition of numbers is:6
+*/
 		
